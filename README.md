@@ -8,7 +8,8 @@ Desafio backend da TDSA Sistemas
 Utilizando pelo comando dotnet run ou debug no Visual Studio a Api vai iniciar na porta 3000, a mesma está documentada com OpenAPI (antigo Swagger).
 
 # Estrutura de Pastas
- Projeto Api
+ 
+ # Projeto Api
  A Api está versionada ex: V1, V2
  Api
   -> bin
